@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/Portfolio-important)](https://www.linkedin.com/in/ihor-simashko-a462aa244/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor.simash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-simashko-a462aa244/)
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
