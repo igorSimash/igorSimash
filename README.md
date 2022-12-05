@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/Portfolio-important)](https://www.linkedin.com/in/ihor-simashko-a462aa244/)
+[![LinkedIn](https://img.shields.io/badge/Portfolio-important)](https://ihor-simash.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor.simash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-simashko-a462aa244/)
 
@@ -36,3 +36,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=igorSimash&icon=5&color=6)](https://visitcount.itsvg.in)
