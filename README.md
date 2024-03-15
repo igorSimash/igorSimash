@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a job.<br>🤝 I’m looking to collaborate with a great team.<br>⚡ Ready to relocate (or remote work).<br>🌱 I’m currently learning Full-Stack Dev.<br>💬 Ask me your questions.<br>
+🤝 I’m looking to collaborate with a great team.<br>⚡ Ready to relocate (or remote work).<br>🌱 I’m currently learning Full-Stack Dev.<br>💬 Ask me your questions.<br>
 
 
 ## 🌐 Socials:
